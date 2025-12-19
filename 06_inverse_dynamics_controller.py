@@ -195,7 +195,7 @@ def main():
     sim = Simulator(
         xml_path="robots/universal_robots_ur5e/scene.xml",
         record_video=True,
-        video_path="logs/videos/01_inverse_dynamics_safe_trajectory.mp4",
+        video_path="logs/videos/06_inverse_dynamics.mp4",
         width=1920,
         height=1080
     )
