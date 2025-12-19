@@ -1,0 +1,67 @@
+SMC Controller Performance Metrics
+============================================================
+
+RMSE:
+  Joint 1: 0.2593
+  Joint 2: 0.2790
+  Joint 3: 0.6217
+  Joint 4: 4.6432
+  Joint 5: 4.7147
+  Joint 6: 7.1167
+
+Max Absolute Error:
+  Joint 1: 0.5319
+  Joint 2: 0.4210
+  Joint 3: 0.7543
+  Joint 4: 5.0895
+  Joint 5: 5.1080
+  Joint 6: 7.6343
+
+Mean Absolute Error:
+  Joint 1: 0.2335
+  Joint 2: 0.2600
+  Joint 3: 0.6052
+  Joint 4: 4.6101
+  Joint 5: 4.6929
+  Joint 6: 7.1062
+
+Settling Time (2%):
+  Joint 1: 9.9980
+  Joint 2: 9.9980
+  Joint 3: 9.9980
+  Joint 4: 9.9980
+  Joint 5: 9.9980
+  Joint 6: 9.9980
+
+Max Control Effort:
+  Joint 1: 53.4494
+  Joint 2: 79.4478
+  Joint 3: 38.1402
+  Joint 4: 9.3295
+  Joint 5: 10.1399
+  Joint 6: 10.0047
+
+Mean Control Effort:
+  Joint 1: 5.9124
+  Joint 2: 27.7199
+  Joint 3: 17.5879
+  Joint 4: 1.5258
+  Joint 5: 7.7995
+  Joint 6: 9.7333
+
+Chattering Frequency:
+  Joint 1: 0.2000
+  Joint 2: 0.5001
+  Joint 3: 0.2000
+  Joint 4: 0.1000
+  Joint 5: 0.1000
+  Joint 6: 0.1000
+
+Energy Consumption:
+  Joint 1: 65.3172
+  Joint 2: 322.1723
+  Joint 3: 188.0038
+  Joint 4: 30.4675
+  Joint 5: 42.8750
+  Joint 6: 76.8612
+
