@@ -32,7 +32,7 @@ The structure of the repository is as follows:
    Coulomb friction
    Implement sliding mode controller
    Compare ID and Sliding Mode
--[20 points] Boundary Layer Implementation
+- [20 points] Boundary Layer Implementation
    Analyze the chattering phenomenon:
    Causes and practical implications
    Boundary layer modification for smoothing
